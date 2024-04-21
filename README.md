@@ -1,4 +1,4 @@
-wip collection of libreries and data structures i find/make for improving my quality of life in uni
+wip collection of libreries and data structures i made for labs/studying
 for now :
 - trees
 - queues
