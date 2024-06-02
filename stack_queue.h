@@ -1,8 +1,6 @@
 using namespace std;
 #include <iostream>
 
-//copilot made
-
 class stack
 {
     private:
@@ -65,8 +63,6 @@ class stack
             cout << endl;
         }
 };
-
-//me made with template
 
 template <typename T>
 
